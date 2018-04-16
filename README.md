@@ -1,5 +1,6 @@
 # SFDX MutualFundExplorer App
 - These instructions demonstrate how to copy an Existing app from a package
+- Second part are instructions on how to convert a source to a package and deploy to an org.
 
 ## Setup
 1. Create project
